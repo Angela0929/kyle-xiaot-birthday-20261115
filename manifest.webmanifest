@@ -1,0 +1,1 @@
+{"name": "Kyle 的生日冒險", "short_name": "Kyle冒險", "start_url": "./", "display": "standalone", "background_color": "#140b43", "theme_color": "#140b43", "icons": [{"src": "./assets/chopperCover.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
